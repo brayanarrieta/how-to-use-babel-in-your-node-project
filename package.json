@@ -1,0 +1,22 @@
+{
+  "name": "how-to-use-babel-in-your-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanarrieta/how-to-use-babel-in-your-node-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayanarrieta/how-to-use-babel-in-your-node-project/issues"
+  },
+  "homepage": "https://github.com/brayanarrieta/how-to-use-babel-in-your-node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
